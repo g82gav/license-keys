@@ -1,3 +1,9 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "name": "wife",
+      "hash": "488070620487360faaeb6d23be6681662abf11eec8f99e8f0892d609cd7f9f55",
+      "active": true
+    }
+  ]
 }
