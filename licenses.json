@@ -1,3 +1,9 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "name": "Dad",
+      "hash": "72b5cd44f75c582290c0f4599f389699e4aa7103cadcba792bcc76db0de6ee79",
+      "active": true
+    }
+  ]
 }
